@@ -30,4 +30,4 @@ if(!localStorage.getItem('name')){
 
 myButton.onclick = function(){
 	setUserName();
-}C:\Users\Kuzmich\Documents\code\project\web-site-mdn
+}
